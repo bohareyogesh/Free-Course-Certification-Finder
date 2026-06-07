@@ -180,3 +180,9 @@ Click "↻ Smart Update" → "Find New Courses" to let AI discover and suggest n
 ## License
 
 MIT — free to use, modify, and distribute.
+
+**📫 Connect With Me**
+
+🔗 LinkedIn: linkedin.com/in/bohareyogesh
+🌐 Portfolio: bohareyogesh.github.io
+
